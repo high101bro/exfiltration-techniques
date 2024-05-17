@@ -2,7 +2,7 @@
 
 Did you know you can append early any text to the end of nearly any file in Linux, and the modified file will still work? You don't have to base64 encode the data like I have before, but I'm include as POC to obfuscate the contents. You could use encryption instead of encoding to further hide it. 
 
-```bash
+```
 # Copying /bin/ls to my local directory
 ┌──(kali㉿ZenBook)-[~]
 └─$ cp /bin/ls .
