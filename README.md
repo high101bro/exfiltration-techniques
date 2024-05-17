@@ -50,7 +50,7 @@ AAAAAAAAAAAAAAAAAAAAAAAADgoQAAAAAAAEkAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAIA
 Bazinga! Both ./ls and ./echo function flawlessly! ./ls with the appended base64, and ./echo after being encoded and decoded/extracted!
 ```
 
-Screenshot
+Screenshot Proof of Concept
 
 ![image](https://github.com/high101bro/exfiltration-techniques/assets/13679268/ef832d08-6a76-48d1-b695-23f8eb246279)
 
